@@ -1,4 +1,4 @@
-# topencryptor
+# Top Encryptor
 
 This encryption tool is for encrypting **top secret**, i.e. secrets of strategic importance to a country (no objection if you use a cannon to shoot mosquitoes). It is the most powerful and strongest encryption tool in the world. Its strength is 10 to 154th power (10^154) times that of the mainstream encryption: Aes256.
 
@@ -14,7 +14,7 @@ Encryption algorithm is the key to confidentiality. If the encryption algorithm 
 
 This encryption software is just to help you completely eliminate the above worrying. Even if the encrypted ciphertext is sent to the CIA, the most powerful and famous organization in the field of cracking secret in the world, you can still sleep sound and easy. This software is unique, reliable and absolutely secure.
 
-##Application scenario:
+## Application scenario:
 1. Any state secret, in or related to, such as diplomatic stuff, intelligence agency, military, weapon research or production, etc.
 
 2. Act as a password manager. Use one master password and this software to manage all other passwords. This is the recommended practice of using this software. Because, in order to achieve sufficient password strength, each password must be long and complex, which must be difficult to remember. Therefore, using a master password and a password manager will greatly simplify the difficulty of memorizing.
@@ -23,11 +23,11 @@ This encryption software is just to help you completely eliminate the above worr
 
 4. Secret information that needs to be transmitted through public channels (such as e-mail), or stored online in facilities provided by commercial services (such as online disks, cloud files).
 
-##Features
+## Features
 
 1. Three algorithms (AES256, Serpent, Twofish) are used in tandem. Even if two of them have weaknesses or vulnerabilities, the final result is still safe. AES256 is a mainstream algorithm, and the other two are also well-known open source algorithms.
 
-Theoretical analysis on the strength of multi-level cascaded encryption, Bellare and Rogaway's paper shows:
+Theoretical analysis on the strength of multi-level cascaded encryption, [Bellare and Rogaway's paper](https://eprint.iacr.org/2004/331.pdf) shows:
 
 "Double encryption is no less securer than its least secure component."
 
@@ -63,7 +63,7 @@ With salting used, and assuming password is composed of uppercase and lowercase 
 
 Adaptive salting is to appropriately change the number of salting loops according to the computer hardware speed and the password length you enter.
 
-##How to use the software
+## How to use the software
 
 I declare that, to the best of my knowledge, this software does not contain viruses and trojans. However, since it is used for encryption purposes, users should proceed with caution, including:
 
@@ -73,31 +73,31 @@ I declare that, to the best of my knowledge, this software does not contain viru
 
 3. When encrypting and decrypting with this software, you should disconnect your PC from the network in case this software or other software in the environment contains trojans/backdoors, steal your important secrets and send them out through the network.
 
-##How to obtain
+## How to obtain
 
 The temporary price: US$300 per person use license, volume price is negotiable. You can contact me by private message on this platform for purchasing.
 
-##File Hash
+## File Hash
 
 The hash of the file is used to verify the integrity of the file and that it has not been tampered with. In Windows, the tool used for this purpose is fciv.exe Before using fciv.exe, you should verify that its digital signature is correct.
 
 V1.0:
 
-##Environment
+## Environment
 
 This software currently only works in Microsoft Windows environment. The required operating system is Windows 8.1 or above, and Microsoft .Net Framework 4.5.1 or above should have been installed.
 
-##Disclaimers
+## Disclaimers
 
 If you do not agree with the following terms, please do not use this software. To the best of my knowledge, this software does not contain viruses and trojans. This software has the characteristics, functions or/and capabilities described in this article. However, I do not guarantee with 100% certainty. If the software does contain defects, or my view and judgment are wrong, and the customer is damaged as a result, I can at most compensate as much as the price of the software. I do not assume any responsibility for customer losses caused by illegal or improper use of this software.
 
-##install
+## install
 
 If it fails to run, it may be that your environment is missing some DLL files provided by the operating systems. You can contact me to help to solve the problem.
 
 At present, only English and 中文(Chinese) version is available. If your need other language version, contact me.
 
-##Third party verification
+## Third party verification
 
 1. To verify that the software does not contain viruses, method: Back up your computer environment, install and use the software, and after a period of time, compare the files with those in the backup. There should be no unknown or unexpected changes between the two set.
 
